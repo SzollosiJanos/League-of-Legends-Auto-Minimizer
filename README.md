@@ -29,7 +29,7 @@
 
 ## Installation
 
-1. **Download**: Obtain the latest version of the League of Legends Auto-Minimizer executable from the [Releases](https://github.com/yourusername/league-auto-minimizer/releases) section or build it yourself.
+1. **Download**: Obtain the latest version of the League of Legends Auto-Minimizer executable from the [Releases](https://github.com/SzollosiJanos/League-of-Legends-Auto-Minimizer/releases) section or build it yourself.
 2. **Run as Administrator**: Right-click the executable and select "Run as administrator" to ensure it has the necessary permissions.
 3. **System Tray**: The program will start and appear as an icon in the system tray.
 

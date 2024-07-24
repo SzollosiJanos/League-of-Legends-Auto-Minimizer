@@ -1,0 +1,1 @@
+pyinstaller -F LolMinimizer.py --hide-console hide-early
